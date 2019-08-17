@@ -1,2 +1,2 @@
-# AdobeAcrobatJavaScripts
-Adobe Acrobat Java Scripts
+# Adobe Acrobat JavaScripts
+Adobe Acrobat JavaScripts
