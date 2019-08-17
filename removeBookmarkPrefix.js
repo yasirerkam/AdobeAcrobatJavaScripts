@@ -4,8 +4,8 @@ function removeBookmarkPrefix(bookmark) {
 
     // Rename bookmark without prefix
 
-    bookmark.name = bookmark.name.replace(/^\S+\s+/, "");
-    // bookmark.name = bookmark.name.replace(/^\d\S*\s+/, "");
+    //bookmark.name = bookmark.name.replace(/^\S+\s+/, "");
+    bookmark.name = bookmark.name.replace(/^\d\S*\s+/, "");
 
 
     if (bookmark.children != null) {
