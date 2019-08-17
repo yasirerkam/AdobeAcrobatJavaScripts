@@ -21,4 +21,4 @@ function removeBookmarkPrefix(bookmark) {
 
 removeBookmarkPrefix(bookmarkRoot);
 
- THIS ONE IS NOT MY CODE. ITS FROM : https://forums.adobe.com/thread/303414
+// THIS ONE IS NOT MY CODE. ITS FROM : https://forums.adobe.com/thread/303414
